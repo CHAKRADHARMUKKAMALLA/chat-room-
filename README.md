@@ -12,4 +12,4 @@ simply known as hackers chat room under a single network(internet protocol)ip ad
 
 ### Developed by
 
-Developer/Author: [chakradhar reddy](https://www.chakradharreddy.me/)
+Developer/Author: [chakradhar reddy](/)
